@@ -1,0 +1,46 @@
+.square1{
+width:75%;
+height:50px;
+background:#33ff99;
+float: left;}
+.square2{
+width:25%;
+height:50px;
+background:#3385ff;
+float: right;}
+.square3{
+width:33%;
+height: 80px;
+background:#ff471a;
+float: left;
+}
+.square4{
+width:34%;
+height:40px;
+background:	#ffa366;
+float: left;}
+.square5{
+width:33%;
+height:40px;
+background:	#e0e0d1;
+float: right;}
+.square6{
+width: 22%;
+height: 40px;
+background:#e6b800;
+float: left;}
+.square7{
+width: 22.5%;
+height: 40px;
+background:	 #66d9ff;
+float:left;}
+.square8{
+width: 22.5%;
+height: 40px;
+background: #ff6600;
+float: right;}
+.square9{
+width: 100%;
+height: 120px;
+background: #333399;
+float:left;}
